@@ -1,4 +1,4 @@
-# HIT-Z
+# [HIT-Z](https://github.com/HIT-Z)
 - Rank:Pre-Trainee [Whole Module]
 - Company:Independent developers
 - Location:Harbin Institute of Technology
