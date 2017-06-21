@@ -4,7 +4,7 @@ Schedule for Programmers.
 ## Rank
 - [Trainee](plans/trainee.md)
 
-## members
+## Members
 ### Pre-Trainee
 - [HIT-Z](https://github.com/scorpio-ghy)
 
