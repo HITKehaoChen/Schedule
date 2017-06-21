@@ -6,7 +6,7 @@ Schedule for Programmers.
 
 ## Members
 ### Pre-Trainee
-- [HIT-Z](https://github.com/scorpio-ghy)
+- [HIT-Z](https://github.com/HIT-Z)
 
 ## Rules
 - 在[README.md](README.md)中更新已有位阶且所有成员及其位阶都被呈现于该[README.md](README.md)
